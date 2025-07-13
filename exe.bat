@@ -1,0 +1,1 @@
+pyinstaller BirdAdventure.py --onefile --icon=img\icon.ico
